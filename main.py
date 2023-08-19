@@ -86,7 +86,8 @@ if __name__ == "__main__":
             "s": "list",
             "tags": f"{booru_name}",
         }
-        encoded_query = quote(urlencode(query))
+        # encoded_query = quote(urlencode(query))
+        encoded_query = urlencode(query)
         url = f"https://gelbooru.com/index.php?{encoded_query}"
         print(url)
         page = {

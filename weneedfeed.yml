@@ -5,144 +5,144 @@ pages:
   item_selector: article
   item_title_selector: title
   title: barlunn
-  url: https://gelbooru.com/index.php?page%3Dpost%26s%3Dlist%26tags%3Dbarlunn
+  url: https://gelbooru.com/index.php?page=post&s=list&tags=barlunn
 - id: gishu
   item_image_selector: img
   item_link_selector: a
   item_selector: article
   item_title_selector: title
   title: gishu
-  url: https://gelbooru.com/index.php?page%3Dpost%26s%3Dlist%26tags%3Dgishu
+  url: https://gelbooru.com/index.php?page=post&s=list&tags=gishu
 - id: hamsterfragment
   item_image_selector: img
   item_link_selector: a
   item_selector: article
   item_title_selector: title
   title: hamsterfragment
-  url: https://gelbooru.com/index.php?page%3Dpost%26s%3Dlist%26tags%3Dhamsterfragment
+  url: https://gelbooru.com/index.php?page=post&s=list&tags=hamsterfragment
 - id: horosuke
   item_image_selector: img
   item_link_selector: a
   item_selector: article
   item_title_selector: title
   title: horosuke
-  url: https://gelbooru.com/index.php?page%3Dpost%26s%3Dlist%26tags%3Dhorosuke
+  url: https://gelbooru.com/index.php?page=post&s=list&tags=horosuke
 - id: kamishakujii_(poppenheim)
   item_image_selector: img
   item_link_selector: a
   item_selector: article
   item_title_selector: title
   title: kamishakujii_(poppenheim)
-  url: https://gelbooru.com/index.php?page%3Dpost%26s%3Dlist%26tags%3Dkamishakujii_%2528poppenheim%2529
+  url: https://gelbooru.com/index.php?page=post&s=list&tags=kamishakujii_%28poppenheim%29
 - id: koyubi_maru
   item_image_selector: img
   item_link_selector: a
   item_selector: article
   item_title_selector: title
   title: koyubi_maru
-  url: https://gelbooru.com/index.php?page%3Dpost%26s%3Dlist%26tags%3Dkoyubi_maru
+  url: https://gelbooru.com/index.php?page=post&s=list&tags=koyubi_maru
 - id: kurowa
   item_image_selector: img
   item_link_selector: a
   item_selector: article
   item_title_selector: title
   title: kurowa
-  url: https://gelbooru.com/index.php?page%3Dpost%26s%3Dlist%26tags%3Dkurowa
+  url: https://gelbooru.com/index.php?page=post&s=list&tags=kurowa
 - id: maskwolf
   item_image_selector: img
   item_link_selector: a
   item_selector: article
   item_title_selector: title
   title: maskwolf
-  url: https://gelbooru.com/index.php?page%3Dpost%26s%3Dlist%26tags%3Dmaskwolf
+  url: https://gelbooru.com/index.php?page=post&s=list&tags=maskwolf
 - id: mdoctkscb
   item_image_selector: img
   item_link_selector: a
   item_selector: article
   item_title_selector: title
   title: mdoctkscb
-  url: https://gelbooru.com/index.php?page%3Dpost%26s%3Dlist%26tags%3Dmdoctkscb
+  url: https://gelbooru.com/index.php?page=post&s=list&tags=mdoctkscb
 - id: mejikara_scene
   item_image_selector: img
   item_link_selector: a
   item_selector: article
   item_title_selector: title
   title: mejikara_scene
-  url: https://gelbooru.com/index.php?page%3Dpost%26s%3Dlist%26tags%3Dmejikara_scene
+  url: https://gelbooru.com/index.php?page=post&s=list&tags=mejikara_scene
 - id: namidate
   item_image_selector: img
   item_link_selector: a
   item_selector: article
   item_title_selector: title
   title: namidate
-  url: https://gelbooru.com/index.php?page%3Dpost%26s%3Dlist%26tags%3Dnamidate
+  url: https://gelbooru.com/index.php?page=post&s=list&tags=namidate
 - id: narusawa_sora
   item_image_selector: img
   item_link_selector: a
   item_selector: article
   item_title_selector: title
   title: narusawa_sora
-  url: https://gelbooru.com/index.php?page%3Dpost%26s%3Dlist%26tags%3Dnarusawa_sora
+  url: https://gelbooru.com/index.php?page=post&s=list&tags=narusawa_sora
 - id: onikokko
   item_image_selector: img
   item_link_selector: a
   item_selector: article
   item_title_selector: title
   title: onikokko
-  url: https://gelbooru.com/index.php?page%3Dpost%26s%3Dlist%26tags%3Donikokko
+  url: https://gelbooru.com/index.php?page=post&s=list&tags=onikokko
 - id: rama_(amaru)
   item_image_selector: img
   item_link_selector: a
   item_selector: article
   item_title_selector: title
   title: rama_(amaru)
-  url: https://gelbooru.com/index.php?page%3Dpost%26s%3Dlist%26tags%3Drama_%2528amaru%2529
+  url: https://gelbooru.com/index.php?page=post&s=list&tags=rama_%28amaru%29
 - id: sabamen
   item_image_selector: img
   item_link_selector: a
   item_selector: article
   item_title_selector: title
   title: sabamen
-  url: https://gelbooru.com/index.php?page%3Dpost%26s%3Dlist%26tags%3Dsabamen
+  url: https://gelbooru.com/index.php?page=post&s=list&tags=sabamen
 - id: saisho_no_nakama
   item_image_selector: img
   item_link_selector: a
   item_selector: article
   item_title_selector: title
   title: saisho_no_nakama
-  url: https://gelbooru.com/index.php?page%3Dpost%26s%3Dlist%26tags%3Dsaisho_no_nakama
+  url: https://gelbooru.com/index.php?page=post&s=list&tags=saisho_no_nakama
 - id: shivu_(mochi)
   item_image_selector: img
   item_link_selector: a
   item_selector: article
   item_title_selector: title
   title: shivu_(mochi)
-  url: https://gelbooru.com/index.php?page%3Dpost%26s%3Dlist%26tags%3Dshivu_%2528mochi%2529
+  url: https://gelbooru.com/index.php?page=post&s=list&tags=shivu_%28mochi%29
 - id: slammo
   item_image_selector: img
   item_link_selector: a
   item_selector: article
   item_title_selector: title
   title: slammo
-  url: https://gelbooru.com/index.php?page%3Dpost%26s%3Dlist%26tags%3Dslammo
+  url: https://gelbooru.com/index.php?page=post&s=list&tags=slammo
 - id: suna_(sandworks)
   item_image_selector: img
   item_link_selector: a
   item_selector: article
   item_title_selector: title
   title: suna_(sandworks)
-  url: https://gelbooru.com/index.php?page%3Dpost%26s%3Dlist%26tags%3Dsuna_%2528sandworks%2529
+  url: https://gelbooru.com/index.php?page=post&s=list&tags=suna_%28sandworks%29
 - id: yamaguchi_homupe
   item_image_selector: img
   item_link_selector: a
   item_selector: article
   item_title_selector: title
   title: yamaguchi_homupe
-  url: https://gelbooru.com/index.php?page%3Dpost%26s%3Dlist%26tags%3Dyamaguchi_homupe
+  url: https://gelbooru.com/index.php?page=post&s=list&tags=yamaguchi_homupe
 - id: yunimaru
   item_image_selector: img
   item_link_selector: a
   item_selector: article
   item_title_selector: title
   title: yunimaru
-  url: https://gelbooru.com/index.php?page%3Dpost%26s%3Dlist%26tags%3Dyunimaru
+  url: https://gelbooru.com/index.php?page=post&s=list&tags=yunimaru
