@@ -34,6 +34,13 @@ pages:
   item_title_selector: title
   title: kamishakujii_(poppenheim)
   url: https://gelbooru.com/index.php?page=post&s=list&tags=kamishakujii_(poppenheim)
+- id: kamishakujii_(poppenheim)
+  item_image_selector: img
+  item_link_selector: a
+  item_selector: article
+  item_title_selector: title
+  title: kamishakujii_(poppenheim)
+  url: https://gelbooru.com/index.php?page=post&s=list&tags=kamishakujii_%28poppenheim%29
 - id: koyubi_maru
   item_image_selector: img
   item_link_selector: a
@@ -97,6 +104,13 @@ pages:
   item_title_selector: title
   title: rama_(amaru)
   url: https://gelbooru.com/index.php?page=post&s=list&tags=rama_(amaru)
+- id: rama_(amaru)
+  item_image_selector: img
+  item_link_selector: a
+  item_selector: article
+  item_title_selector: title
+  title: rama_(amaru)
+  url: https://gelbooru.com/index.php?page=post&s=list&tags=rama_%28amaru%29
 - id: sabamen
   item_image_selector: img
   item_link_selector: a
@@ -118,6 +132,13 @@ pages:
   item_title_selector: title
   title: shivu_(mochi)
   url: https://gelbooru.com/index.php?page=post&s=list&tags=shivu_(mochi)
+- id: shivu_(mochi)
+  item_image_selector: img
+  item_link_selector: a
+  item_selector: article
+  item_title_selector: title
+  title: shivu_(mochi)
+  url: https://gelbooru.com/index.php?page=post&s=list&tags=shivu_%28mochi%29
 - id: slammo
   item_image_selector: img
   item_link_selector: a
@@ -132,6 +153,13 @@ pages:
   item_title_selector: title
   title: suna_(sandworks)
   url: https://gelbooru.com/index.php?page=post&s=list&tags=suna_(sandworks)
+- id: suna_(sandworks)
+  item_image_selector: img
+  item_link_selector: a
+  item_selector: article
+  item_title_selector: title
+  title: suna_(sandworks)
+  url: https://gelbooru.com/index.php?page=post&s=list&tags=suna_%28sandworks%29
 - id: yamaguchi_homupe
   item_image_selector: img
   item_link_selector: a
