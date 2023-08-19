@@ -6,6 +6,20 @@ pages:
   item_title_selector: title
   title: barlunn
   url: https://gelbooru.com/index.php?page=post&s=list&tags=barlunn
+- id: drid
+  item_image_selector: img
+  item_link_selector: a
+  item_selector: article
+  item_title_selector: title
+  title: drid
+  url: https://gelbooru.com/index.php?page=post&s=list&tags=drid
+- id: flask00
+  item_image_selector: img
+  item_link_selector: a
+  item_selector: article
+  item_title_selector: title
+  title: flask00
+  url: https://gelbooru.com/index.php?page=post&s=list&tags=flask00
 - id: gishu
   item_image_selector: img
   item_link_selector: a
@@ -20,6 +34,13 @@ pages:
   item_title_selector: title
   title: hamsterfragment
   url: https://gelbooru.com/index.php?page=post&s=list&tags=hamsterfragment
+- id: hitodama_(madatohi)
+  item_image_selector: img
+  item_link_selector: a
+  item_selector: article
+  item_title_selector: title
+  title: hitodama_(madatohi)
+  url: https://gelbooru.com/index.php?page=post&s=list&tags=hitodama_%28madatohi%29
 - id: horosuke
   item_image_selector: img
   item_link_selector: a
@@ -125,6 +146,13 @@ pages:
   item_title_selector: title
   title: rama_(amaru)
   url: https://gelbooru.com/index.php?page=post&s=list&tags=rama_%28amaru%29
+- id: refeia
+  item_image_selector: img
+  item_link_selector: a
+  item_selector: article
+  item_title_selector: title
+  title: refeia
+  url: https://gelbooru.com/index.php?page=post&s=list&tags=refeia
 - id: sabamen
   item_image_selector: img
   item_link_selector: a
