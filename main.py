@@ -131,8 +131,10 @@ if __name__ == "__main__":
         feeds["pages"].append(page)
 
     # idの移動
-    move_raindrop(marked_ids, unmark, marked, token)
-    move_raindrop(not_found_ids, unmark, notfound, token)
+    if 0 != len(marked_ids):
+        move_raindrop(marked_ids, unmark, marked, token)
+    if 0 != len(not_found_ids):
+        move_raindrop(not_found_ids, unmark, notfound, token)
 
     # Sort pages
     pages = sorted(feeds["pages"], key=lambda x: x["id"])
