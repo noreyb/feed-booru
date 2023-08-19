@@ -31,6 +31,36 @@ def get_from_raindrop(collection_id, token):
     return r
 
 
+def move_raindrop(items, src, dst, token):
+    url = "https://api.raindrop.io/rest/v1"
+    endpoint = "/raindrops"
+    headers = {
+        "Content-Type": "application/json",
+        "Authorization": f"Bearer {token}",
+    }
+    query = {
+        "perpage": 50,
+    }
+    body = {
+        "ids": items,
+        "collectionId": dst,
+    }
+
+    resp = requests.put(
+        f"{url}{endpoint}/{src}",
+        headers=headers,
+        params=query,
+        json=body,
+    )
+
+    if resp.status_code != requests.codes.ok:
+        print(resp.text)
+        exit(1)
+
+    time.sleep(1)
+    return resp
+
+
 def get_booru_user(src):
     headers = {"Content-Type": "application/x-www-form-urlencoded"}
     base_url = "https://danbooru.donmai.us"
@@ -76,10 +106,9 @@ if __name__ == "__main__":
         if 0 == len(booru_user):
             not_found_ids.append(item["_id"])
             continue
-
-        booru_name = booru_user[0]["name"]
         marked_ids.append(item["_id"])
 
+        booru_name = booru_user[0]["name"]
         # gelbooruのurlを生成
         query = {
             "page": "post",
@@ -101,6 +130,10 @@ if __name__ == "__main__":
         }
         feeds["pages"].append(page)
 
+    # idの移動
+    move_raindrop(marked_ids, unmark, marked, token)
+    move_raindrop(not_found_ids, unmark, notfound, token)
+
     # Sort pages
     pages = sorted(feeds["pages"], key=lambda x: x["id"])
     pages = list({page["url"]: page for page in pages}.values())
@@ -108,6 +141,3 @@ if __name__ == "__main__":
 
     with open("weneedfeed.yml", "w") as f:
         yaml.dump(feeds, f, encoding="utf-8", allow_unicode=True)
-
-    # idの移動
-    print(marked_ids)
