@@ -27,6 +27,13 @@ pages:
   item_title_selector: title
   title: horosuke
   url: https://gelbooru.com/index.php?page=post&s=list&tags=horosuke
+- id: iroiro_0w0
+  item_image_selector: img
+  item_link_selector: a
+  item_selector: article
+  item_title_selector: title
+  title: iroiro_0w0
+  url: https://gelbooru.com/index.php?page=post&s=list&tags=iroiro_0w0
 - id: jtveemo
   item_image_selector: img
   item_link_selector: a
