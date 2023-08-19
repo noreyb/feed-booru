@@ -4,6 +4,7 @@ import time
 import requests
 import yaml
 from dotenv import load_dotenv
+from urllib.parse import urlencode
 
 
 def get_from_raindrop(collection_id, token):
@@ -80,8 +81,9 @@ if __name__ == "__main__":
         marked_ids.append(item["_id"])
 
         # gelbooruのurlを生成
-        print(feeds)
-        url = f"https://gelbooru.com/index.php?page=post&s=list&tags={booru_name}"
+        query = f"page=post&s=list&tags={booru_name}"
+        encoded_query = urlencode(query)
+        url = f"https://gelbooru.com/index.php?{encoded_query}"
         page = {
             "id": f"{booru_name}",
             "title": f"{booru_name}",
