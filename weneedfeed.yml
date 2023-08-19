@@ -153,6 +153,13 @@ pages:
   item_title_selector: title
   title: suna_(sandworks)
   url: https://gelbooru.com/index.php?page=post&s=list&tags=suna_%28sandworks%29
+- id: tanosii_chan
+  item_image_selector: img
+  item_link_selector: a
+  item_selector: article
+  item_title_selector: title
+  title: tanosii_chan
+  url: https://gelbooru.com/index.php?page=post&s=list&tags=tanosii_chan
 - id: yamaguchi_homupe
   item_image_selector: img
   item_link_selector: a
