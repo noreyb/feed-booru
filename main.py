@@ -81,7 +81,11 @@ if __name__ == "__main__":
         marked_ids.append(item["_id"])
 
         # gelbooruのurlを生成
-        query = f"page=post&s=list&tags={booru_name}"
+        query = {
+            "page": "post",
+            "s": "list",
+            "tags": f"{booru_name}",
+        }
         encoded_query = urlencode(query)
         url = f"https://gelbooru.com/index.php?{encoded_query}"
         page = {
