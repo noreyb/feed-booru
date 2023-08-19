@@ -4,7 +4,7 @@ import time
 import requests
 import yaml
 from dotenv import load_dotenv
-from urllib.parse import urlencode
+from urllib.parse import urlencode, quote
 
 
 def get_from_raindrop(collection_id, token):
@@ -86,8 +86,9 @@ if __name__ == "__main__":
             "s": "list",
             "tags": f"{booru_name}",
         }
-        encoded_query = urlencode(query)
+        encoded_query = quote(urlencode(query))
         url = f"https://gelbooru.com/index.php?{encoded_query}"
+        print(url)
         page = {
             "id": f"{booru_name}",
             "title": f"{booru_name}",
