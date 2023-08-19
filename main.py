@@ -130,6 +130,8 @@ if __name__ == "__main__":
         }
         feeds["pages"].append(page)
 
+        print(booru_name)
+
     # idの移動
     if 0 != len(marked_ids):
         move_raindrop(marked_ids, unmark, marked, token)
