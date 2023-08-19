@@ -97,6 +97,13 @@ pages:
   item_title_selector: title
   title: narusawa_sora
   url: https://gelbooru.com/index.php?page=post&s=list&tags=narusawa_sora
+- id: nine_(kanine41)
+  item_image_selector: img
+  item_link_selector: a
+  item_selector: article
+  item_title_selector: title
+  title: nine_(kanine41)
+  url: https://gelbooru.com/index.php?page=post&s=list&tags=nine_%28kanine41%29
 - id: onikokko
   item_image_selector: img
   item_link_selector: a
