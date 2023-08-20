@@ -76,6 +76,13 @@ pages:
   item_title_selector: title
   title: koyubi_maru
   url: https://gelbooru.com/index.php?page=post&s=list&tags=koyubi_maru
+- id: kunaboto
+  item_image_selector: img
+  item_link_selector: a
+  item_selector: article
+  item_title_selector: title
+  title: kunaboto
+  url: https://gelbooru.com/index.php?page=post&s=list&tags=kunaboto
 - id: kurowa
   item_image_selector: img
   item_link_selector: a
@@ -111,6 +118,13 @@ pages:
   item_title_selector: title
   title: mejikara_scene
   url: https://gelbooru.com/index.php?page=post&s=list&tags=mejikara_scene
+- id: mmmmmkun
+  item_image_selector: img
+  item_link_selector: a
+  item_selector: article
+  item_title_selector: title
+  title: mmmmmkun
+  url: https://gelbooru.com/index.php?page=post&s=list&tags=mmmmmkun
 - id: namidate
   item_image_selector: img
   item_link_selector: a
@@ -188,6 +202,13 @@ pages:
   item_title_selector: title
   title: suna_(sandworks)
   url: https://gelbooru.com/index.php?page=post&s=list&tags=suna_%28sandworks%29
+- id: tamada_heijun
+  item_image_selector: img
+  item_link_selector: a
+  item_selector: article
+  item_title_selector: title
+  title: tamada_heijun
+  url: https://gelbooru.com/index.php?page=post&s=list&tags=tamada_heijun
 - id: tanosii_chan
   item_image_selector: img
   item_link_selector: a
