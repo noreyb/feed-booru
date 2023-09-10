@@ -531,6 +531,13 @@ pages:
   item_title_selector: title
   title: shachi_(d09_0rca)
   url: https://gelbooru.com/index.php?page=post&s=list&tags=shachi_%28d09_0rca%29
+- id: shinjiro
+  item_image_selector: img
+  item_link_selector: a
+  item_selector: article
+  item_title_selector: title
+  title: shinjiro
+  url: https://gelbooru.com/index.php?page=post&s=list&tags=shinjiro
 - id: shirabe_shiki
   item_image_selector: img
   item_link_selector: a
