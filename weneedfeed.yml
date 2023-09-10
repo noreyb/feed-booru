@@ -6,6 +6,13 @@ pages:
   item_title_selector: title
   title: 5_nan_(5nan_5nan)
   url: https://gelbooru.com/index.php?page=post&s=list&tags=5_nan_%285nan_5nan%29
+- id: 5t_(5t_000)
+  item_image_selector: img
+  item_link_selector: a
+  item_selector: article
+  item_title_selector: title
+  title: 5t_(5t_000)
+  url: https://gelbooru.com/index.php?page=post&s=list&tags=5t_%285t_000%29
 - id: agemono_(agemonoooooo)
   item_image_selector: img
   item_link_selector: a
@@ -34,6 +41,13 @@ pages:
   item_title_selector: title
   title: anteiru
   url: https://gelbooru.com/index.php?page=post&s=list&tags=anteiru
+- id: aochoku
+  item_image_selector: img
+  item_link_selector: a
+  item_selector: article
+  item_title_selector: title
+  title: aochoku
+  url: https://gelbooru.com/index.php?page=post&s=list&tags=aochoku
 - id: banana_oekaki
   item_image_selector: img
   item_link_selector: a
@@ -167,6 +181,13 @@ pages:
   item_title_selector: title
   title: i_kitsugi
   url: https://gelbooru.com/index.php?page=post&s=list&tags=i_kitsugi
+- id: indinu
+  item_image_selector: img
+  item_link_selector: a
+  item_selector: article
+  item_title_selector: title
+  title: indinu
+  url: https://gelbooru.com/index.php?page=post&s=list&tags=indinu
 - id: iroiro_0w0
   item_image_selector: img
   item_link_selector: a
@@ -293,6 +314,13 @@ pages:
   item_title_selector: title
   title: m_dairy
   url: https://gelbooru.com/index.php?page=post&s=list&tags=m_dairy
+- id: madana_(xesa7885)
+  item_image_selector: img
+  item_link_selector: a
+  item_selector: article
+  item_title_selector: title
+  title: madana_(xesa7885)
+  url: https://gelbooru.com/index.php?page=post&s=list&tags=madana_%28xesa7885%29
 - id: maruko_tooto
   item_image_selector: img
   item_link_selector: a
@@ -531,6 +559,13 @@ pages:
   item_title_selector: title
   title: shachi_(d09_0rca)
   url: https://gelbooru.com/index.php?page=post&s=list&tags=shachi_%28d09_0rca%29
+- id: shikisokuzeku76
+  item_image_selector: img
+  item_link_selector: a
+  item_selector: article
+  item_title_selector: title
+  title: shikisokuzeku76
+  url: https://gelbooru.com/index.php?page=post&s=list&tags=shikisokuzeku76
 - id: shinjiro
   item_image_selector: img
   item_link_selector: a
@@ -650,6 +685,13 @@ pages:
   item_title_selector: title
   title: yamaguchi_homupe
   url: https://gelbooru.com/index.php?page=post&s=list&tags=yamaguchi_homupe
+- id: yanyo_(ogino_atsuki)
+  item_image_selector: img
+  item_link_selector: a
+  item_selector: article
+  item_title_selector: title
+  title: yanyo_(ogino_atsuki)
+  url: https://gelbooru.com/index.php?page=post&s=list&tags=yanyo_%28ogino_atsuki%29
 - id: yukikaki
   item_image_selector: img
   item_link_selector: a
