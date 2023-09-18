@@ -125,6 +125,20 @@ pages:
   item_title_selector: title
   title: ashiomi_masato
   url: https://gelbooru.com/index.php?page=post&s=list&tags=ashiomi_masato
+- id: autogiraffe
+  item_image_selector: img
+  item_link_selector: a
+  item_selector: article
+  item_title_selector: title
+  title: autogiraffe
+  url: https://gelbooru.com/index.php?page=post&s=list&tags=autogiraffe
+- id: bamuth
+  item_image_selector: img
+  item_link_selector: a
+  item_selector: article
+  item_title_selector: title
+  title: bamuth
+  url: https://gelbooru.com/index.php?page=post&s=list&tags=bamuth
 - id: banana_oekaki
   item_image_selector: img
   item_link_selector: a
@@ -146,6 +160,13 @@ pages:
   item_title_selector: title
   title: barlunn
   url: https://gelbooru.com/index.php?page=post&s=list&tags=barlunn
+- id: beijuu
+  item_image_selector: img
+  item_link_selector: a
+  item_selector: article
+  item_title_selector: title
+  title: beijuu
+  url: https://gelbooru.com/index.php?page=post&s=list&tags=beijuu
 - id: bigskycastle
   item_image_selector: img
   item_link_selector: a
@@ -272,6 +293,20 @@ pages:
   item_title_selector: title
   title: diao_(nrays)
   url: https://gelbooru.com/index.php?page=post&s=list&tags=diao_%28nrays%29
+- id: dino_(dinoartforame)
+  item_image_selector: img
+  item_link_selector: a
+  item_selector: article
+  item_title_selector: title
+  title: dino_(dinoartforame)
+  url: https://gelbooru.com/index.php?page=post&s=list&tags=dino_%28dinoartforame%29
+- id: dkground
+  item_image_selector: img
+  item_link_selector: a
+  item_selector: article
+  item_title_selector: title
+  title: dkground
+  url: https://gelbooru.com/index.php?page=post&s=list&tags=dkground
 - id: drid
   item_image_selector: img
   item_link_selector: a
@@ -356,6 +391,13 @@ pages:
   item_title_selector: title
   title: fukai_ryosuke
   url: https://gelbooru.com/index.php?page=post&s=list&tags=fukai_ryosuke
+- id: fumio_(rsqkr)
+  item_image_selector: img
+  item_link_selector: a
+  item_selector: article
+  item_title_selector: title
+  title: fumio_(rsqkr)
+  url: https://gelbooru.com/index.php?page=post&s=list&tags=fumio_%28rsqkr%29
 - id: furaido_potato
   item_image_selector: img
   item_link_selector: a
@@ -398,6 +440,13 @@ pages:
   item_title_selector: title
   title: gishu
   url: https://gelbooru.com/index.php?page=post&s=list&tags=gishu
+- id: grandia_lee
+  item_image_selector: img
+  item_link_selector: a
+  item_selector: article
+  item_title_selector: title
+  title: grandia_lee
+  url: https://gelbooru.com/index.php?page=post&s=list&tags=grandia_lee
 - id: gtcpst
   item_image_selector: img
   item_link_selector: a
@@ -426,6 +475,13 @@ pages:
   item_title_selector: title
   title: haburaeru
   url: https://gelbooru.com/index.php?page=post&s=list&tags=haburaeru
+- id: haguhagu_(rinjuu_circus)
+  item_image_selector: img
+  item_link_selector: a
+  item_selector: article
+  item_title_selector: title
+  title: haguhagu_(rinjuu_circus)
+  url: https://gelbooru.com/index.php?page=post&s=list&tags=haguhagu_%28rinjuu_circus%29
 - id: hakosaku
   item_image_selector: img
   item_link_selector: a
@@ -524,6 +580,13 @@ pages:
   item_title_selector: title
   title: ie_(raarami)
   url: https://gelbooru.com/index.php?page=post&s=list&tags=ie_%28raarami%29
+- id: iggy.m
+  item_image_selector: img
+  item_link_selector: a
+  item_selector: article
+  item_title_selector: title
+  title: iggy.m
+  url: https://gelbooru.com/index.php?page=post&s=list&tags=iggy.m
 - id: ikezawa_shin
   item_image_selector: img
   item_link_selector: a
@@ -664,6 +727,20 @@ pages:
   item_title_selector: title
   title: kariya_(kry_aia)
   url: https://gelbooru.com/index.php?page=post&s=list&tags=kariya_%28kry_aia%29
+- id: karma6211
+  item_image_selector: img
+  item_link_selector: a
+  item_selector: article
+  item_title_selector: title
+  title: karma6211
+  url: https://gelbooru.com/index.php?page=post&s=list&tags=karma6211
+- id: kashu_(hizake)
+  item_image_selector: img
+  item_link_selector: a
+  item_selector: article
+  item_title_selector: title
+  title: kashu_(hizake)
+  url: https://gelbooru.com/index.php?page=post&s=list&tags=kashu_%28hizake%29
 - id: kilesha
   item_image_selector: img
   item_link_selector: a
@@ -713,6 +790,13 @@ pages:
   item_title_selector: title
   title: kumaneko_(kumaneko1138)
   url: https://gelbooru.com/index.php?page=post&s=list&tags=kumaneko_%28kumaneko1138%29
+- id: kumonji_aruto
+  item_image_selector: img
+  item_link_selector: a
+  item_selector: article
+  item_title_selector: title
+  title: kumonji_aruto
+  url: https://gelbooru.com/index.php?page=post&s=list&tags=kumonji_aruto
 - id: kunaboto
   item_image_selector: img
   item_link_selector: a
@@ -874,6 +958,13 @@ pages:
   item_title_selector: title
   title: mejikara_scene
   url: https://gelbooru.com/index.php?page=post&s=list&tags=mejikara_scene
+- id: mekaringo
+  item_image_selector: img
+  item_link_selector: a
+  item_selector: article
+  item_title_selector: title
+  title: mekaringo
+  url: https://gelbooru.com/index.php?page=post&s=list&tags=mekaringo
 - id: mikokoro_(konata_arctica)
   item_image_selector: img
   item_link_selector: a
@@ -951,6 +1042,13 @@ pages:
   item_title_selector: title
   title: mobu
   url: https://gelbooru.com/index.php?page=post&s=list&tags=mobu
+- id: mocamocaink
+  item_image_selector: img
+  item_link_selector: a
+  item_selector: article
+  item_title_selector: title
+  title: mocamocaink
+  url: https://gelbooru.com/index.php?page=post&s=list&tags=mocamocaink
 - id: mochirong
   item_image_selector: img
   item_link_selector: a
@@ -1042,6 +1140,13 @@ pages:
   item_title_selector: title
   title: ozorano_megane
   url: https://gelbooru.com/index.php?page=post&s=list&tags=ozorano_megane
+- id: p0t4t0_ubi_imo
+  item_image_selector: img
+  item_link_selector: a
+  item_selector: article
+  item_title_selector: title
+  title: p0t4t0_ubi_imo
+  url: https://gelbooru.com/index.php?page=post&s=list&tags=p0t4t0_ubi_imo
 - id: perdrekisuru
   item_image_selector: img
   item_link_selector: a
@@ -1049,6 +1154,27 @@ pages:
   item_title_selector: title
   title: perdrekisuru
   url: https://gelbooru.com/index.php?page=post&s=list&tags=perdrekisuru
+- id: pipidan
+  item_image_selector: img
+  item_link_selector: a
+  item_selector: article
+  item_title_selector: title
+  title: pipidan
+  url: https://gelbooru.com/index.php?page=post&s=list&tags=pipidan
+- id: popman3580
+  item_image_selector: img
+  item_link_selector: a
+  item_selector: article
+  item_title_selector: title
+  title: popman3580
+  url: https://gelbooru.com/index.php?page=post&s=list&tags=popman3580
+- id: pretty-purin720
+  item_image_selector: img
+  item_link_selector: a
+  item_selector: article
+  item_title_selector: title
+  title: pretty-purin720
+  url: https://gelbooru.com/index.php?page=post&s=list&tags=pretty-purin720
 - id: quasarcake
   item_image_selector: img
   item_link_selector: a
@@ -1280,6 +1406,13 @@ pages:
   item_title_selector: title
   title: shirabe_shiki
   url: https://gelbooru.com/index.php?page=post&s=list&tags=shirabe_shiki
+- id: shisantian
+  item_image_selector: img
+  item_link_selector: a
+  item_selector: article
+  item_title_selector: title
+  title: shisantian
+  url: https://gelbooru.com/index.php?page=post&s=list&tags=shisantian
 - id: shiseki_hirame
   item_image_selector: img
   item_link_selector: a
@@ -1301,6 +1434,13 @@ pages:
   item_title_selector: title
   title: shuta
   url: https://gelbooru.com/index.php?page=post&s=list&tags=shuta
+- id: sidneysora
+  item_image_selector: img
+  item_link_selector: a
+  item_selector: article
+  item_title_selector: title
+  title: sidneysora
+  url: https://gelbooru.com/index.php?page=post&s=list&tags=sidneysora
 - id: sihkygmojsn
   item_image_selector: img
   item_link_selector: a
@@ -1560,6 +1700,13 @@ pages:
   item_title_selector: title
   title: uraimodesu
   url: https://gelbooru.com/index.php?page=post&s=list&tags=uraimodesu
+- id: usa37107692
+  item_image_selector: img
+  item_link_selector: a
+  item_selector: article
+  item_title_selector: title
+  title: usa37107692
+  url: https://gelbooru.com/index.php?page=post&s=list&tags=usa37107692
 - id: velceed
   item_image_selector: img
   item_link_selector: a
@@ -1609,6 +1756,13 @@ pages:
   item_title_selector: title
   title: winter_(winterinkoakuma)
   url: https://gelbooru.com/index.php?page=post&s=list&tags=winter_%28winterinkoakuma%29
+- id: woga_(ogkntk)
+  item_image_selector: img
+  item_link_selector: a
+  item_selector: article
+  item_title_selector: title
+  title: woga_(ogkntk)
+  url: https://gelbooru.com/index.php?page=post&s=list&tags=woga_%28ogkntk%29
 - id: yah_yah_6
   item_image_selector: img
   item_link_selector: a
@@ -1665,6 +1819,13 @@ pages:
   item_title_selector: title
   title: yukikaki
   url: https://gelbooru.com/index.php?page=post&s=list&tags=yukikaki
+- id: yun_ling
+  item_image_selector: img
+  item_link_selector: a
+  item_selector: article
+  item_title_selector: title
+  title: yun_ling
+  url: https://gelbooru.com/index.php?page=post&s=list&tags=yun_ling
 - id: yunimaru
   item_image_selector: img
   item_link_selector: a
@@ -1672,6 +1833,13 @@ pages:
   item_title_selector: title
   title: yunimaru
   url: https://gelbooru.com/index.php?page=post&s=list&tags=yunimaru
+- id: yuuji_(and)
+  item_image_selector: img
+  item_link_selector: a
+  item_selector: article
+  item_title_selector: title
+  title: yuuji_(and)
+  url: https://gelbooru.com/index.php?page=post&s=list&tags=yuuji_%28and%29
 - id: yves_bigerel
   item_image_selector: img
   item_link_selector: a
@@ -1679,4 +1847,18 @@ pages:
   item_title_selector: title
   title: yves_bigerel
   url: https://gelbooru.com/index.php?page=post&s=list&tags=yves_bigerel
+- id: zkstxxx
+  item_image_selector: img
+  item_link_selector: a
+  item_selector: article
+  item_title_selector: title
+  title: zkstxxx
+  url: https://gelbooru.com/index.php?page=post&s=list&tags=zkstxxx
+- id: zzz_(orchid-dale)
+  item_image_selector: img
+  item_link_selector: a
+  item_selector: article
+  item_title_selector: title
+  title: zzz_(orchid-dale)
+  url: https://gelbooru.com/index.php?page=post&s=list&tags=zzz_%28orchid-dale%29
 title: booru
