@@ -440,6 +440,13 @@ pages:
   item_title_selector: title
   title: gishu
   url: https://gelbooru.com/index.php?page=post&s=list&tags=gishu
+- id: gomo
+  item_image_selector: img
+  item_link_selector: a
+  item_selector: article
+  item_title_selector: title
+  title: gomo
+  url: https://gelbooru.com/index.php?page=post&s=list&tags=gomo
 - id: grandia_lee
   item_image_selector: img
   item_link_selector: a
@@ -1805,6 +1812,13 @@ pages:
   item_title_selector: title
   title: yanyo_(ogino_atsuki)
   url: https://gelbooru.com/index.php?page=post&s=list&tags=yanyo_%28ogino_atsuki%29
+- id: yokokisa
+  item_image_selector: img
+  item_link_selector: a
+  item_selector: article
+  item_title_selector: title
+  title: yokokisa
+  url: https://gelbooru.com/index.php?page=post&s=list&tags=yokokisa
 - id: yoshiwa_tomo
   item_image_selector: img
   item_link_selector: a
