@@ -769,6 +769,13 @@ pages:
   item_title_selector: title
   title: kobinbin
   url: https://gelbooru.com/index.php?page=post&s=list&tags=kobinbin
+- id: konchi_(63438789)
+  item_image_selector: img
+  item_link_selector: a
+  item_selector: article
+  item_title_selector: title
+  title: konchi_(63438789)
+  url: https://gelbooru.com/index.php?page=post&s=list&tags=konchi_%2863438789%29
 - id: kopaka_(karda_nui)
   item_image_selector: img
   item_link_selector: a
@@ -825,6 +832,13 @@ pages:
   item_title_selector: title
   title: kyouan_(hiromituisgod)
   url: https://gelbooru.com/index.php?page=post&s=list&tags=kyouan_%28hiromituisgod%29
+- id: kz_oji
+  item_image_selector: img
+  item_link_selector: a
+  item_selector: article
+  item_title_selector: title
+  title: kz_oji
+  url: https://gelbooru.com/index.php?page=post&s=list&tags=kz_oji
 - id: lcy_bingzi
   item_image_selector: img
   item_link_selector: a
