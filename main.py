@@ -41,7 +41,7 @@ def fetch_tagged_raindrops(items, tags, has_tag=True):
     if has_tag:
         return filtered_items
     else:
-        return [item for item in filtered_items if item not in items]
+        return [item for item in items if item["_id"] not in [fi["_id"] for fi in filtered_items]]
 
 
 def tag_raindrop(items, collection, tag, token):
