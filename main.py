@@ -7,7 +7,7 @@ import yaml
 from dotenv import load_dotenv
 
 
-def get_from_raindrop(collection_id, token):
+def get_raindrops(collection_id, token):
     url = "https://api.raindrop.io/rest/v1"
     endpoint = "/raindrops"
     headers = {
@@ -29,6 +29,19 @@ def get_from_raindrop(collection_id, token):
 
     time.sleep(1)
     return r
+
+
+def fetch_tagged_raindrops(items, tags, has_tag=True):
+    filtered_items = []
+    for item in items:
+        for tag in item["tags"]:
+            if tag in tags:
+                filtered_items.append(item)
+
+    if has_tag:
+        return filtered_items
+    else:
+        return [item for item in filtered_items if item not in items]
 
 
 def tag_raindrop(items, collection, tag, token):
@@ -89,11 +102,15 @@ if __name__ == "__main__":
     with open("weneedfeed.yml", "r") as f:
         feeds = yaml.safe_load(f)
 
-    r = get_from_raindrop(collection, token)
+    r = get_raindrops(collection, token)
+    items = r.json()["items"]
+    tags = ["booru_marked", "booru_notfound"]
+    items = fetch_tagged_raindrops(items, tags, has_tag=False)
+    print(items)
 
     not_found_ids = []
     marked_ids = []
-    for item in r.json()["items"]:
+    for item in items:
         user = fetch_user_name(item)
         booru_user = get_booru_user(user)
 
