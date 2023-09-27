@@ -17,7 +17,7 @@ jobs:
           python-version: "3.11"
       - uses: Gr1N/setup-poetry@v8
       - run: poetry install --no-root
-      - run: RD_TOKEN=${{secrets.RD_TOKEN}} UNMARK=${{secrets.UNMARK}} MARKED=${{secrets.MARKED}} NOTFOUND=${{secrets.NOTFOUND}} poetry run python main.py
+      - run: RD_TOKEN=${{secrets.RD_TOKEN}} UNMARK=${{secrets.UNMARK}} poetry run python main.py
       - name: Sync feeds
         continue-on-error:  true
         run: |
