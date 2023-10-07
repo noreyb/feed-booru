@@ -1021,6 +1021,13 @@ pages:
   item_title_selector: title
   title: madana_(xesa7885)
   url: https://gelbooru.com/index.php?page=post&s=list&tags=madana_%28xesa7885%29
+- id: magai_akashi
+  item_image_selector: img
+  item_link_selector: a
+  item_selector: article
+  item_title_selector: title
+  title: magai_akashi
+  url: https://gelbooru.com/index.php?page=post&s=list&tags=magai_akashi
 - id: makio_(makiomeigenbot)
   item_image_selector: img
   item_link_selector: a
@@ -1252,6 +1259,13 @@ pages:
   item_title_selector: title
   title: nasakene
   url: https://gelbooru.com/index.php?page=post&s=list&tags=nasakene
+- id: nay_akane
+  item_image_selector: img
+  item_link_selector: a
+  item_selector: article
+  item_title_selector: title
+  title: nay_akane
+  url: https://gelbooru.com/index.php?page=post&s=list&tags=nay_akane
 - id: neco
   item_image_selector: img
   item_link_selector: a
@@ -1609,6 +1623,13 @@ pages:
   item_title_selector: title
   title: shal.e
   url: https://gelbooru.com/index.php?page=post&s=list&tags=shal.e
+- id: shiba_(s_hi_ba_)
+  item_image_selector: img
+  item_link_selector: a
+  item_selector: article
+  item_title_selector: title
+  title: shiba_(s_hi_ba_)
+  url: https://gelbooru.com/index.php?page=post&s=list&tags=shiba_%28s_hi_ba_%29
 - id: shiden_(sashimi_no_wife)
   item_image_selector: img
   item_link_selector: a
@@ -2050,6 +2071,13 @@ pages:
   item_title_selector: title
   title: yanyo_(ogino_atsuki)
   url: https://gelbooru.com/index.php?page=post&s=list&tags=yanyo_%28ogino_atsuki%29
+- id: yapo_(croquis_side)
+  item_image_selector: img
+  item_link_selector: a
+  item_selector: article
+  item_title_selector: title
+  title: yapo_(croquis_side)
+  url: https://gelbooru.com/index.php?page=post&s=list&tags=yapo_%28croquis_side%29
 - id: yoko.u
   item_image_selector: img
   item_link_selector: a
