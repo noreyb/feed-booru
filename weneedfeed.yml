@@ -2001,6 +2001,13 @@ pages:
   item_title_selector: title
   title: teriibol
   url: https://gelbooru.com/index.php?page=post&s=list&tags=teriibol
+- id: the_insaneum
+  item_image_selector: img
+  item_link_selector: a
+  item_selector: article
+  item_title_selector: title
+  title: the_insaneum
+  url: https://gelbooru.com/index.php?page=post&s=list&tags=the_insaneum
 - id: throtem
   item_image_selector: img
   item_link_selector: a
