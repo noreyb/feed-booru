@@ -1434,6 +1434,13 @@ pages:
   item_title_selector: title
   title: noriko_(ni_noriko)
   url: https://gelbooru.com/index.php?page=post&s=list&tags=noriko_%28ni_noriko%29
+- id: norinco
+  item_image_selector: img
+  item_link_selector: a
+  item_selector: article
+  item_title_selector: title
+  title: norinco
+  url: https://gelbooru.com/index.php?page=post&s=list&tags=norinco
 - id: null_hamamo
   item_image_selector: img
   item_link_selector: a
