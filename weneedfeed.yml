@@ -1700,6 +1700,13 @@ pages:
   item_title_selector: title
   title: refeia
   url: https://gelbooru.com/index.php?page=post&s=list&tags=refeia
+- id: reisende1969
+  item_image_selector: img
+  item_link_selector: a
+  item_selector: article
+  item_title_selector: title
+  title: reisende1969
+  url: https://gelbooru.com/index.php?page=post&s=list&tags=reisende1969
 - id: ricochet-gou
   item_image_selector: img
   item_link_selector: a
