@@ -37,7 +37,7 @@ jobs:
       - uses: r7kamura/weneedfeed-action@v3
         with:
           base_url: https://noreyb.github.io/feed-booru
-      - uses: actions/upload-pages-artifact@v4
+      - uses: actions/upload-pages-artifact@v3
         with:
           path: output
   deploy:
